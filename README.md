@@ -4,5 +4,5 @@ thhis form cpmplete the rasistration .
 this is completed with html, css, and javascript .
 and php and python,mysql.java script, mysql.sql server.
 hey , helllo. by this we used to make the form .
-, this is creatd for all language.
+this is creatd for all language.
 
